@@ -1,0 +1,10 @@
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\bin\Debug\AplikasiLatihanTiga.3.exe.config
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\bin\Debug\AplikasiLatihanTiga.3.exe
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\bin\Debug\AplikasiLatihanTiga.3.pdb
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga.3.csprojAssemblyReference.cache
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga._3.FmLatihanTiga3.resources
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga._3.Properties.Resources.resources
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga.3.csproj.GenerateResource.cache
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga.3.csproj.CoreCompileInputs.cache
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga.3.exe
+E:\Kaa\Tugas\AplikasiLatihanTiga.3\AplikasiLatihanTiga.3\obj\Debug\AplikasiLatihanTiga.3.pdb

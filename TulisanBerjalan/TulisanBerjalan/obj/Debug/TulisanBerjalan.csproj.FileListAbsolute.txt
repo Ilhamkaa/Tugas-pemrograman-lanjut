@@ -1,0 +1,9 @@
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmtulisanberjalan.resources
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+E:\Kaa\Tugas\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
